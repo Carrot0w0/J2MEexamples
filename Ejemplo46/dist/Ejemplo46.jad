@@ -1,0 +1,8 @@
+MIDlet-1: Ejemplo46, , Ejemplo46.Ejemplo46
+MIDlet-Jar-Size: 2310
+MIDlet-Jar-URL: Ejemplo46.jar
+MIDlet-Name: Ejemplo46
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
